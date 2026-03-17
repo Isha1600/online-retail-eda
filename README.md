@@ -1,7 +1,7 @@
 # 📊 Online Retail Exploratory Data Analysis
 
-📒 **Full Analysis:** [Online_Retail_EDA.ipynb](Online_Retail_EDA.ipynb)  
-📄 **Detailed Report:** [ONLINE_RETAIL.md](ONLINE_RETAIL.md)
+📒 **Full Analysis:** [[Online_Retail_EDA.ipynb](Online_Retail_EDA.ipynb)](https://github.com/Isha1600/online-retail-eda/blob/main/online_retail.ipynb)  
+📄 **Detailed Report:** 
 
 ---
 
